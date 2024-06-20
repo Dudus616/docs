@@ -60,7 +60,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Wiki",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
@@ -82,7 +82,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "Wiki",
               to: "/docs/intro",
             },
           ],
@@ -95,21 +95,8 @@ const config: Config = {
               href: "https://dc.minecube.pl",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "TikTok",
+              href: "https://www.tiktok.com/@rubylandpl",
             },
           ],
         },
