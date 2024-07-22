@@ -4,4 +4,8 @@ sidebar_position: 1
 
 # Windy
 
-Niebawem...
+## Jak stworzyć windę?
+
+Windę tworzy się tak jak na obrazku poniżej, blok redstone na tym blok żelaza.
+
+![Winda](./assets/winda.png)
