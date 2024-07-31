@@ -38,7 +38,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/minecubepl/docs/tree/main/",
         },
-        // blog: false,
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -58,12 +58,12 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Wiki",
+          label: "Wikipedia Serwerowa",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        //{ to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://mapa.minecube.pl/",
-          label: "Mapa",
+          label: "Mapa EarthSMP 🗺️",
           position: "right",
         },
         {
