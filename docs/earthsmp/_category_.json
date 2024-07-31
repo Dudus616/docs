@@ -2,7 +2,6 @@
   "label": "EarthSMP 🗺️",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "description": "OPIS KATEGORI EARTHSMP"
+    "type": "generated-index"
   }
 }
