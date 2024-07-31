@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Ukrycie na Mapie
+# Ukrycie na Mapie 🗺️
 
 ### Jak ukryć się na Mapie Online?
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Jak zacząć Grę?
+# Jak zacząć Grę? 🏠
 
 ## Jak zacząć grę na naszym serwerze EarthSMP?
 

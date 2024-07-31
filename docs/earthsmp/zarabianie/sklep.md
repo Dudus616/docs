@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Sklep
+# Sklep 🏪
 
 Sklep dostępny jest pod komendą `/sklep`.
 

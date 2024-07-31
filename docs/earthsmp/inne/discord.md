@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Połączenie Discord
+# Połączenie Discord ⛓️‍💥
 
 ### Łączenie Konta Minecraft - Discord
 

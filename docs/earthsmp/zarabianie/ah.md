@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Dom Aukcyjny
+# Dom Aukcyjny 🛖
 
 ### Jak sprzedawać w Domu Aukcyjnym?
 
