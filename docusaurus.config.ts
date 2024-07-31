@@ -34,11 +34,11 @@ const config: Config = {
       "classic",
       {
         docs: {
+          routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/minecubepl/docs/tree/main/",
         },
+        // blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -47,8 +47,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "MineCube",
       logo: {
@@ -77,30 +75,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Wiki",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Discord",
-              href: "https://dc.minecube.pl",
-            },
-            {
-              label: "TikTok",
-              href: "https://www.tiktok.com/@rubylandpl",
-            },
-          ],
-        },
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} MineCube. Built with Docusaurus.`,
     },
     prism: {
