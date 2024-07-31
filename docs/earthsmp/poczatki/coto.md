@@ -8,4 +8,4 @@ Tryb EarthSMP u nas to jest po prostu Survival tylko że na mapie świata, z ró
 
 Tak jak pisaliśmy rozgrywka odbywa się na **Prawdziwej Mapie Świata** aby zobaczyć gdzie się jest wystarczy wejść na stronę https://mapa.minecube.pl
 
-[**Jesteś nowy? Nie wiesz jak zacząć? Zajrzyj tutaj!**](/docs/earthsmp/poczatki/jakzaczac)
+[**Jesteś nowy? Nie wiesz jak zacząć? Zajrzyj tutaj!**](/earthsmp/poczatki/jakzaczac)
