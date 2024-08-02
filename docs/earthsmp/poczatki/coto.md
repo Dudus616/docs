@@ -4,8 +4,10 @@ sidebar_position: 1
 
 # Co to EarthSMP? ❓
 
-Tryb EarthSMP u nas to jest po prostu Survival tylko że na mapie świata, z róźnymi dodakowymi funkcjami takimi jak np. Farmerzy, Dom Aukcyjny, Ulepszalne Spawnery, Pojazdy i wiele więcej...
+EarthSMP w serwerze MineCube to unikalna wersja trybu Survival, która przenosi rozgrywkę na realistyczną mapę świata. Oferuje ona szeroką gamę dodatkowych funkcji, które wzbogacają doświadczenie gry i pozwalają na bardziej złożone interakcje. Poniżej znajdziesz szczegółowy przewodnik, który pomoże Ci zacząć i czerpać pełnię przyjemności z gry.
 
-Tak jak pisaliśmy rozgrywka odbywa się na **Prawdziwej Mapie Świata** aby zobaczyć gdzie się jest wystarczy wejść na stronę https://mapa.minecube.pl
+### Mapa świata
+
+Gra toczy się na dokładnym odwzorowaniu mapy świata. Aby sprawdzić, gdzie się znajdujesz, możesz skorzystać ze strony https://mapa.minecube.pl. To interaktywne narzędzie pozwala na śledzenie Twojej pozycji oraz lokalizacji innych graczy w czasie rzeczywistym.
 
 [**Jesteś nowy? Nie wiesz jak zacząć? Zajrzyj tutaj!**](/earthsmp/poczatki/jakzaczac)
