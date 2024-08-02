@@ -10,7 +10,11 @@ Nether na naszym EarthSMP to miejsce pełne tajemnic i niebezpieczeństw. Pod po
 
 W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe dla naszego serwera. Te potwory są silniejsze i bardziej wytrzymałe niż te, które można spotkać w standardowym Netherze. Poniżej znajduje się lista niektórych z nich:
 
-- Niebawem...
+- ## Piekielny Pies
+
+  ![Piekielny Pies](./assets/pies.png)
+
+  Informacje:
 
 ## Fragmenty Netherowej Zbroi
 
