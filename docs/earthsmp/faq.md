@@ -65,3 +65,7 @@ Możesz chronić swoje rzeczy, tworząc państwo i odpowiednio zarządzając upr
 ### Czy są jakieś nagrody za głosowanie na serwer?
 
 Tak, możesz otrzymać Klucz za głosowanie na serwer na mclist.
+
+### Czy mogę dostać XYZ?
+
+Na naszym serwerze staramy się zapewnić uczciwą rozgrywkę dla wszystkich graczy. Dlatego nie ma możliwości uzyskania specjalnych przedmiotów, rang czy przywilejów na prośbę. Wszystkie nagrody i korzyści są dostępne poprzez grę, osiągnięcia i wspieranie serwera zgodnie z zasadami.

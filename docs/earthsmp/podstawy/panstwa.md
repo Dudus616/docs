@@ -58,7 +58,7 @@ Możesz nadawać różne rangi członkom państwa, co pozwoli im na wykonywanie 
 
 ## Podstawowe komendy
 
-- Soon
+- W trakcie przygotowania...
 
 ## Inne funkcje
 
@@ -72,11 +72,11 @@ Możesz tworzyć sojusze z innymi państwami, co pozwoli na współpracę i wzaj
 
 ### Wojny
 
-Soon
+W trakcie przygotowania...
 
 ### Ekonomia
 
-Soon
+W trakcie przygotowania...
 
 ## FAQ
 

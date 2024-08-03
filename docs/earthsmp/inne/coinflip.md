@@ -1,7 +1,7 @@
 ---
-sidebar_position: 5
+sidebar_position: 9
 ---
 
-# Entropia
+# CoinFlip 🪙
 
 W trakcie przygotowania...
