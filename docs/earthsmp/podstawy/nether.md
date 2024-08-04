@@ -84,23 +84,25 @@ Każdy z powyższych potworów ma szansę upuścić fragment Netherowej Zbroi po
 
 ## Zbroja Netherowa
 
+![Netherowa Zbroja](./assets/zbroja-netherowa.png)
+
 ### Crafting Netherowej Zbroi
 
 Aby stworzyć pełny zestaw Netherowej Zbroi, gracze muszą zebrać odpowiednią ilość fragmentów oraz inne składniki. Oto jak można to zrobić:
 
-**Hełm Netherowej Zbroi**
+#### Netherowy Hełm
 
 Receptura będzie dostępna dzisiaj 👀
 
-**Napierśnik Netherowej Zbroi**
+#### Netherowy Napierśnik
 
 Receptura będzie dostępna dzisiaj 👀
 
-**Legginsy Netherowej Zbroi**
+#### Netherowe Nogawice
 
 Receptura będzie dostępna dzisiaj 👀
 
-**Buty Netherowej Zbroi**
+#### Netherowe Buty
 
 Receptura będzie dostępna dzisiaj 👀
 
