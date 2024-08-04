@@ -103,3 +103,19 @@ Tak, aby zmienić nazwę swojego państwa, użyj komendy:
 ```
 /lands rename <nowa_nazwa>
 ```
+
+### Jak zmienić nazwę państwa na kolorową?
+
+Aby to zrobić wystarczy że wpiszesz komendę do zmiany a za nią nazwe kraju z kodami kolorów:
+
+```
+/lands rename <nowa_nazwa>
+```
+
+Przykład:
+
+```
+/lands rename &f&lPol&c&lska
+```
+
+Teraz uzyskamy biało-czerwony napis Polska który będzie pogrubiony. Dostępne kody kolorów możesz sprawdzić pod komendą `/colors`
