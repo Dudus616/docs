@@ -72,7 +72,14 @@ Możesz tworzyć sojusze z innymi państwami, co pozwoli na współpracę i wzaj
 
 ### Wojny
 
-W trakcie przygotowania...
+Od piątku do soboty w godzinach od 12-18 można wypowiedzieć wojnę bez akceptacji drugiej strony, czas przygotowania do wojny to 24 godziny.
+Państwo broniące może w ciagu tych 24 godzin odwołać się poprzez odpowiedni ticket na naszym [Discordzie](https://dc.minecube.pl), takie odwołanie od wojny musi być podstawne i może zostać odrzucone lub zaakceptowane.
+
+Aby wypowiedzieć wojnę użyj komendy:
+
+```
+/wojna declare <nazwa_państwa>
+```
 
 ### Ekonomia
 
