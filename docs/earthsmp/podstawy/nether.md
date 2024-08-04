@@ -90,20 +90,20 @@ Aby stworzyć pełny zestaw Netherowej Zbroi, gracze muszą zebrać odpowiednią
 
 **Hełm Netherowej Zbroi**
 
-Receptura niebawem...
+Receptura będzie dostępna dzisiaj 👀
 
 **Napierśnik Netherowej Zbroi**
 
-Receptura niebawem...
+Receptura będzie dostępna dzisiaj 👀
 
 **Legginsy Netherowej Zbroi**
 
-Receptura niebawem...
+Receptura będzie dostępna dzisiaj 👀
 
 **Buty Netherowej Zbroi**
 
-Receptura niebawem...
+Receptura będzie dostępna dzisiaj 👀
 
 ### Zalety Netherowej Zbroi
 
-Niebawem...
+Zalety będą dostępne dzisiaj 👀
