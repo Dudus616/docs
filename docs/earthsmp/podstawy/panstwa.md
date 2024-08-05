@@ -12,6 +12,8 @@ Na serwerze EarthSMP, gracze mogą tworzyć i zarządzać swoimi własnymi pańs
 
 Aby stworzyć swoje własne państwo, użyj komendy:
 
+Koszt: 7,5k
+
 ```
 /lands create <nazwa>
 ```
@@ -23,6 +25,14 @@ Przykład:
 ```
 
 Po utworzeniu państwa, automatycznie staniesz się jego liderem.
+
+### Tworzenie obozu
+
+Jeśli jesteś nowy i jeszcze nie masz 7,5k na stworzenie kraju to możesz stworzyć obóz za darmo, obóz jest na 3 dni.
+
+```
+/lands createcamp <nazwa>
+```
 
 ## Zarządzanie państwem
 
