@@ -84,7 +84,7 @@ Każdy z powyższych potworów ma szansę upuścić fragment Netherowej Zbroi po
 
 ## Zbroja Netherowa
 
-![Netherowa Zbroja](./assets/zbroja-netherowa.png)
+![Netherowa Zbroja](./assets/netherowa-zbroja.png)
 
 ### Crafting Netherowej Zbroi
 
