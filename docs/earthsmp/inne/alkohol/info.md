@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 1
 ---
 
-# Alkohol 🍾
+# Informacje ℹ️
 
 Na serwerze EarthSMP alkohole odgrywają wyjątkową rolę, oferując graczom ciekawe doświadczenia i zabawę. Dzięki zaawansowanemu systemowi warzenia, każdy gracz ma możliwość tworzenia unikalnych trunków!
 
@@ -18,8 +18,6 @@ Każdy napój alkoholowy ma swoje unikalne efekty:
 
 - **Oślepienie:** Napoje mogą czasowo zaburzać widoczność gracza.
 - **Spowolnienie:** Niektóre napoje mogą wpływać na szybkość poruszania się gracza.
-
-## Jak Warzyć Alkohol
 
 :::danger
 
