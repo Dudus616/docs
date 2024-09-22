@@ -17,6 +17,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Wszędzie
+  - Drop Fragmentów Netherowej Zbroi: TAK (1 3%)
 
 - ### Mroczny Chochlik
 
@@ -25,6 +26,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Basalt Deltas
+  - Drop Fragmentów Netherowej Zbroi: TAK (1 5%)
 
 - ### Piekielny Grzyb
 
@@ -33,6 +35,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Crimson Forest i Warped Forest
+  - Drop Fragmentów Netherowej Zbroi: NIE
 
 - ### Zagubiona Dusza
 
@@ -41,6 +44,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Soul Sand Valley
+  - Drop Fragmentów Netherowej Zbroi: NIE
 
 - ### Lawowa Pirania
 
@@ -49,6 +53,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: W Lavie
+  - Drop Fragmentów Netherowej Zbroi: NIE
 
 - ### Lawowa Roztocz
 
@@ -57,6 +62,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Wszędzie
+  - Drop Fragmentów Netherowej Zbroi: NIE
 
 - ### Ognisty Chochlik
 
@@ -65,6 +71,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Crimson Forest
+  - Drop Fragmentów Netherowej Zbroi: TAK (1 5%)
 
 - ### Król Płomieni
 
@@ -73,6 +80,7 @@ W Netherze można spotkać wiele niecodziennych potworów, które są wyjątkowe
   **Informacje:**
 
   - Występuje: Wszędzie
+  - Drop Fragmentów Netherowej Zbroi: TAK (1-3 30%)
 
 ## Fragmenty Netherowej Zbroi
 
@@ -92,20 +100,20 @@ Aby stworzyć pełny zestaw Netherowej Zbroi, gracze muszą zebrać odpowiednią
 
 #### Netherowy Hełm
 
-Receptura będzie dostępna dzisiaj 👀
+Receptura będzie dostępna jutro (max po jutrze) 👀
 
 #### Netherowy Napierśnik
 
-Receptura będzie dostępna dzisiaj 👀
+Receptura będzie dostępna jutro (max po jutrze) 👀
 
 #### Netherowe Nogawice
 
-Receptura będzie dostępna dzisiaj 👀
+Receptura będzie dostępna jutro (max po jutrze) 👀
 
 #### Netherowe Buty
 
-Receptura będzie dostępna dzisiaj 👀
+Receptura będzie dostępna jutro (max po jutrze) 👀
 
 ### Zalety Netherowej Zbroi
 
-Zalety będą dostępne dzisiaj 👀
+Zalety będą dostępne jutro (max po jutrze) 👀
