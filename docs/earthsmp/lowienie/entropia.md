@@ -2,6 +2,9 @@
 sidebar_position: 5
 ---
 
-# Entropia
+# Entropia ✨
 
-W trakcie przygotowania...
+## Czym jest entropia?
+
+Entropia jest używana jako niestandardowa waluta. Zdobywasz ją w wielu formach i jest używana do tworzenia ulepszeń i ulepszania dostaw w `/fish deliveries`.
+
