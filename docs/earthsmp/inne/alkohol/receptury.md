@@ -11,7 +11,6 @@ sidebar_position: 3
 | Ciemne Piwo       | 6x Pszenica                                     | 8 Minut        | Nie        | 8 Lat <br />Ciemne Dębowe | I'     |        |
 | Czerwone Wino     | 5x Słodkie jagody                               | 5 Minut        | Nie        | 20 Lat <br />Każde        | I'     |        |
 | Miód Pitny        | 6x Trzcina cukrowa                              | 3 Minuty       | Nie        | 4 Lata <br />Dębowe       | I'     |        |
-| Miód Jabłkowy     | 6x Trzcina cukrowa <br />2x Jabłko              | 4 Minuty       | Nie        | 4 Lata <br />Dębowe       | II     | +      |
 | Cydr Jabłkowy     | 14x Jabłko                                      | 7 Minut        | Nie        | 3 Lata <br />Każde        | I'     |        |
 | Alkohol Jabłkowy  | 12x Jabłko                                      | 16 Minut       | Tak        | 6 Lat <br />Akacjowe      | II'    |        |
 | Whisky            | 10x Pszenica                                    | 10 Minut       | Tak        | 18 Lat <br />Świerkowe    | III'   |        |
