@@ -100,20 +100,16 @@ Aby stworzyć pełny zestaw Netherowej Zbroi, gracze muszą zebrać odpowiednią
 
 #### Netherowy Hełm
 
-Receptura będzie dostępna jutro (max po jutrze) 👀
+![Netherowy Hełm](./assets/netherowy-helm.png)
 
 #### Netherowy Napierśnik
 
-Receptura będzie dostępna jutro (max po jutrze) 👀
+![Netherowy Napierśnik](./assets/netherowy-napiersnik.png)
 
 #### Netherowe Nogawice
 
-Receptura będzie dostępna jutro (max po jutrze) 👀
+![Netherowe Nogawice](./assets/netherowe-nogawice.png)
 
 #### Netherowe Buty
 
-Receptura będzie dostępna jutro (max po jutrze) 👀
-
-### Zalety Netherowej Zbroi
-
-Zalety będą dostępne jutro (max po jutrze) 👀
+![Netherowe Buty](./assets/netherowe-buty.png)
