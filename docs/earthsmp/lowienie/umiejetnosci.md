@@ -14,7 +14,7 @@ Obecnie istnieją dwa różne typy umiejętności, a każda z nich ma inny wpły
 
 #### Ulepszenia Umiejętności
 Obecnie dostępnych jest 10 umiejętnośći, które można ulepszyć 
-![Ulepszenia](./assets2/umiejętności.png)
+![Ulepszenia](./assets2/umiejetnosci.png)
 
 #### Umiejętności zakupu jednorazowego
 Umiejętności te działają raczej jako efekty „pasywne” niż jako umiejętność. 

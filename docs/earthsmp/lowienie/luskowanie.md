@@ -25,3 +25,4 @@ Kiedy już skalujesz swoją rybę, zyska ona losową „wagę”. Jest to bezpo�
 Wagi działają w specyficzny sposób. Jeśli umieścisz ryby w jednym miejscu w menu, cały stos zostanie przeskalowany za tę samą cenę.
 
 Jednakże jeśli podzielisz je na różne przedziały, wszystkie otrzymają losową skalowaną cenę. Możesz zaryzykować cały stos lub poszczególne, w zależności od tego, jak się czujesz.
+

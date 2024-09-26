@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Podstawy Łowienia 🎣
 
 ### Podstawy łowienia ryb, twój poziom, kraby, łowienie ryb i torba na ryby.
 
@@ -62,4 +63,4 @@ Gdy zbierze się od 1-4 graczy na jedym łowisku zostanie dodany booster za wsp�
 
 ## Plecak Wędkarza
 
-Jest to osobne miejsce do gromadzenie rybek możesz zostawiać rybki aby następnie oddawać je do [dostaw](/earthsmp/lowienie/dostawy). Plecak możesz otworzyć komendą `/fish bag`.
+Jest to osobne miejsce do gromadzenia rybek. Możesz zostawiać rybki aby następnie oddawać je do [dostaw](/earthsmp/lowienie/dostawy). Plecak możesz otworzyć komendą `/fish bag`.
