@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Totemy Wędkarskie
+# Totemy Wędkarskie 🗼
 
 ## Jak zdobyć totem wędkarski?
 
@@ -58,4 +58,39 @@ Zaleca się zwiększanie promienia tylko wtedy, gdy chcesz, aby obejmował on du
 
 ## Pasywne Sloty
 
+Miejsca pasywne są bardzo ważne, ponieważ są potrzebne do aktywacji ulepszeń totemów. Na maksymalnym poziomie mżesz mieć maksymalnie 18 pasywnych miejsc. Aby uzyskać nowy pasywny slot potrzebujesz:
 
+| Potrzebujesz   | Ilość Ryb
+| -------------- | ----------------
+| Platynowa Ryba | x5
+| Mityczna Ryba  | x1
+
+Pamiętaj, że po każdym ulepszeniu poziomu koszt będzie się powiększał. Na przykład, jeśli masz już dwa pasywne miejsca, trzeci będzie kosztować:
+
+* 3x Mityczne Ryby
+* 15x Platynowych Ryb
+
+:::danger
+Nie można mieszać i dopasowywać ryb!!! (np. 1 mityczna i 14 platynowych). Aby stworzyć następny pasywny slot, muszą być tego samego typu 
+:::
+
+## Ulepszenia Totemu
+
+Ulepszenia są oddzielone od ulepszeń za Entropie. Zamiast tego wymagają różnych poziomów połowów i pasywnych miejsc do aktywacji. Poniżej znajduje się lista ulepszeń, wymagany poziom, koszt slotu pasywnego i jego działanie.
+
+:::info
+Aby efekty pasywne zadziałały, MUSISZ stanąć wewnątrz zielonego okręgu. Całkiem w porządku jest rzucić wędkę poza ten okrąg, ale gracz musi znajdować się w jego wnętrzu.
+
+Ulepszenia można włączać i wyłączać nawet wtedy, gdy Totem jest aktywny, co pozwala na dowolną wymianę ulepszenia podczas pracy. Możesz mieć aktywnych tylko tyle, ile masz pasywnych miejsc w danym momencie.
+:::
+
+| Ulepszenia         | Poziom Łowienia | Sloty | Jak to działa?
+| ------------------ | --------------- | ----- | -------------
+| Doświadczony rybak | 20              | 1     | Zwiększa ilość doświadczenia wędkarskiego które otrzymasz podczas łowienia.
+| Małe stworzenia    | 40              | 2     | Zapewni ci wyższą szansę na zdobycie łupów związanych z krabami.
+| Szkoła rybna       | 40              | 3     | sprawi że ulepszenie Gorący Punkt będzie aktywowany częściej.
+| Losowe krople      | 55              | 4     | Daje to szansę na zdobycie innych łupów wędkarskich, takich jak macki kałamarnicy lub odony delfinów, za zabijaie krabów.
+| Poszukiwać skarbów | 60              | 5     | Daje to 1% szansy za znalezienie rzadkich przedmiotów podczas łowienia ryb.
+| Mityczne wody      | 60              | 5     | Za każdym razem, gdy złapiesz rybę, masz 20% szans na ulepszenie jej do wyższej rzadkości.
+| Horyzont entropi   | 60              | 6     | Zwiększa to entropię uzyskiwaną podczas łowienia o 1,25x.
+| Upadek Gwiazdy     | 100             | 10    | aktualnie wyłączone ulepszenie.
