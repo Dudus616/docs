@@ -24,7 +24,7 @@ Aby aktywować Totem, będziesz potrzebować 20 poziomu wędkarstwa. Możesz to 
 
 Gdy już będziesz mieć powyższe elementy i wymagany poziom. Musisz zbudować strukturę. Przewodnik znajdziesz w `/fish menu` lub użyj poniższego obrazka.
 
-![totem](./assets2/totem.png)
+![totem](./assets/totem.png)
 
 Kiedy już zbudujesz totem wędkarski, użyj wędki, uderz w dolnego obserwera, a powinien się on aktywować lub wyświetli komunikat o błędzie, w zależności od tego, czego brakuje.
 

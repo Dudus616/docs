@@ -18,7 +18,7 @@ Patroszenie ryb jest niezwykle proste i łatwe!!
 2. Umieść rybki w menu patroszenia
 3. Kliknij w gwiazdę netherową, aby wypatroszyć ryby.
 
-![patroszenie](./assets2/patroszenie.png)
+![patroszenie](./assets/patroszenie.png)
 
 ## Jak zwiększyć dochody z patroszenia ryb?
 
@@ -31,8 +31,8 @@ Te dwa boostery nie kumulują się razem, ale działają niezależnie w oparciu 
 
 #### Precision Cutting
 
-![precison](./assets2/precision.png)
+![precison](./assets/precision.png)
 
 #### Lepsze Patroszenie
 
-![lepsze](./assets2/lepsze.png)
+![lepsze](./assets/lepsze.png)

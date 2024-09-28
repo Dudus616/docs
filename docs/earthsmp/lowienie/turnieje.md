@@ -8,7 +8,7 @@ sidebar_position: 9
 
 Turnieje jest to najszybszy sposób na zdobycie pieniędzy lub ulepszeń. Na serwerze mamy 8 turnieji dziennych.
 
-![turnieje](./assets2/turnieje.png)
+![turnieje](./assets/turnieje.png)
 
 Aby brać udział w takim turnieju potrzebujesz tylko wędki!!!
 

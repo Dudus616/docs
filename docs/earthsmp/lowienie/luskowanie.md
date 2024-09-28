@@ -18,7 +18,7 @@ Rybie łuski służą do wypróbowania szczęścia w zarabianiu więcej lub mnie
 
 Kiedy już skalujesz swoją rybę, zyska ona losową „wagę”. Jest to bezpośrednio powiązane z uzyskanym wzrostem lub obniżką ceny. Wzrost/spadek jest ZAWSZE procentem opartym na normalnej cenie sprzedaży ryb.
 
-![Łuskowanie](./assets2/luskowanie.png)
+![Łuskowanie](./assets/luskowanie.png)
 
 ## FAQ
 

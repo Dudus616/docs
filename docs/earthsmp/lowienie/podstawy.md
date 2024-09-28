@@ -71,8 +71,8 @@ Jest to osobne miejsce do gromadzenia rybek. Możesz zostawiać rybki aby nastę
 
 Na serwerze jest skrzynia w której można zdobywać ulepszenia, entropie i klucze. Gdy użyjesz komendy `/spawn` i podejdziesz na wprost zobaczysz daną skrzynię:
 
-![skrzynie](./assets2/skrzynia.png)
-![skrzynie2](./assets2/skrzynia2.png)
+![skrzynie](./assets/skrzynia.png)
+![skrzynie2](./assets/skrzynia2.png)
 
 ### Aby zdobyć klucz masz 2 sposoby:
 

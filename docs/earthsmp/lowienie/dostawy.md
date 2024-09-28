@@ -10,7 +10,7 @@ Możesz zdobywać nową dostawę za każde 180 ryb, które złapiesz. Gdy złowi
 
 Możesz także sprawdzić, ile ryb potrzebujesz do następnej dostawy w menu ryb, najeżdżając kursorem na ikonę dostawy.
 
-![dostawy](./assets2/dostawy.png)
+![dostawy](./assets/dostawy.png)
 
 ## Jak działają dostawy?
 
