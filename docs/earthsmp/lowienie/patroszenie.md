@@ -23,8 +23,8 @@ Patroszenie ryb jest niezwykle proste i łatwe!!
 ## Jak zwiększyć dochody z patroszenia ryb?
 
 Ocecnie istnieją dwa główne sposoby na zwiększenie dochodów z patroszenia ryb.
-* [Precision Cutting](wiki)
-* [Lepsze patroszenie](wiki)
+* [Precision Cutting](/earthsmp/lowienie/Ulepszenia/lista#precision-cutting)
+* [Lepsze patroszenie](/earthsmp/lowienie/umiejetnosci#umiejętności-które-można-ulepszać)
 
 Te dwa boostery nie kumulują się razem, ale działają niezależnie w oparciu o podstawowy dochód z patroszenia ryb.
 

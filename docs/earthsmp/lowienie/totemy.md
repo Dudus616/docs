@@ -10,10 +10,10 @@ Zdobycie totemu wędkarskiego jest łatwe. Musisz zbudować totem i zapewnić ok
 
 ### Jakich przedmiotów potrzebuję?
 
-* 16 [Ogonów Delfina](wiki)
-* 16 [Pazur Kraba](wiki)
-* 16 [Łuska Kraba](wiki)
-* 16 [Macka kałamarnicy](wiki)
+* 16 [Ogonów Delfina](/earthsmp/lowienie/podstawy#kraby)
+* 16 [Pazur Kraba](/earthsmp/lowienie/podstawy#kraby)
+* 16 [Łuska Kraba](/earthsmp/lowienie/podstawy#kraby)
+* 16 [Macka kałamarnicy](/earthsmp/lowienie/podstawy#kraby)
 * 6 Obojętnie jaka Platynowa ryba
 
 :::danger

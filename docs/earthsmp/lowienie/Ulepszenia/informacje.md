@@ -12,7 +12,7 @@ Ulepszenia to w zasadzie niestandardowe zaklęcia tworzone przy użyciu kotła. 
 
 Ulepszenia można wytworzyć, wrzucając wymagane przedmioty do kotła i uderzając go wędką. 
 
-Bardziej szczegółowy przewodnik na temat wytwarzania ulepszeń znajdziesz [tutaj](wiki)
+Bardziej szczegółowy przewodnik na temat wytwarzania ulepszeń znajdziesz [tutaj](/earthsmp/lowienie/Ulepszenia/lista#ulepszenia)
 
 ## Jak umieścić ulepszenia na wędce?
 

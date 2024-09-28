@@ -33,14 +33,14 @@ Twój poziom jest bardzo ważny. Możesz zdobyć XP do swojego poziomu za łapan
 Twój poziom połowu jest używany w różnych zastosowaniach takich jak:
 * Możliwość tworzenia ulepszeń (różni się w zależności od ulepszeń)
 * Odblokowanie i zbudowanie totemu wędkarskiego (Wymagany poziom 20)
-* Zdobywanie punktów umiejętności i ulepszanie/odblokowywanie [umiejętności](wiki) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
+* Zdobywanie punktów umiejętności i ulepszanie/odblokowywanie [umiejętności](/earthsmp/lowienie/umiejetnosci) (1 punkt za możliwość ulepszenia, 15 za jednorazowe odblokowanie)
 
 ## Zdobywanie większej liczby XP wędkarstwa
 
 Istnieje kilka sposobów na maksymalizacje prztostu XP z różnych żródeł. Są one wymienione poniżej:
 
-* [Sage Augment](wiki)
-* [Ulepszenie w totemie "Doświadczony rybak"](wiki)
+* [Sage Augment](/earthsmp/lowienie/Ulepszenia/lista#sage)
+* [Ulepszenie w totemie "Doświadczony rybak"](/earthsmp/lowienie/totemy#ulepszenia-totemu-1)
 
 :::info
 Możesz sprawdzić swój poziom w dowolnym momencie, korzystając ze statystyk `/fish stats`.
@@ -64,3 +64,14 @@ Gdy zbierze się od 1-4 graczy na jedym łowisku zostanie dodany booster za wsp�
 ## Plecak Wędkarza
 
 Jest to osobne miejsce do gromadzenia rybek. Możesz zostawiać rybki aby następnie oddawać je do [dostaw](/earthsmp/lowienie/dostawy). Plecak możesz otworzyć komendą `/fish bag`.
+
+## Skrzynia Rybaka
+
+Na serwerze jest skrzynia w której można zdobywać ulepszenia, entropie i klucze. Gdy użyjesz komendy `/spawn` i podejdziesz na wprost uwidzisz daną skrzynie:
+
+![skrzynie](./assets2/skrzynia.png)
+![skrzynie2](./assets2/skrzynia2.png)
+
+### Aby zdobyć klucz masz 2 sposoby:
+* Gdy pójdziesz na strefę afk `/warp strefa-afk` jest skrzynia w której można uzyskać klucz.
+* Podczas [Turnieji](/earthsmp/lowienie/turnieje) pierwsze miejsce wygrywa klucz rybaka.
